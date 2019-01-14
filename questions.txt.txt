@@ -1,0 +1,10 @@
+Which country is the origin of HMD Global? Finland
+What is the capital of the UK? London
+What currency does Italy use? Euro
+Which city is the richest in India in terms of GDP? Mumbai
+Which season of IPL will be held in 2019 (enter the number only)? 12
+Which team in IPL is captained by Virat Kohli (enter abbreviation)? RCB
+Which company surpassed Apple to be the most valuable publicly traded company of Q4 2018? Microsoft
+What does SQL stand for? Structured Query Language
+Which Lumia phone was the last model of the series (enter full name)? Microsoft Lumia 650
+PureView technology is currently owned by which company? HMD Global
